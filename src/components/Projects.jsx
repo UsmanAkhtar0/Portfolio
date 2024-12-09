@@ -37,7 +37,7 @@ const Projects = () => {
                   rel="noopener noreferrer"
                   className="inline-block text-teal-500 hover:text-teal-700 font-medium transition duration-300"
                 >
-                  View Details
+                  View
                 </a>
                 <a href={project.link2}
                   target="_blank"
