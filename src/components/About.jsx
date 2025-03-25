@@ -2,6 +2,8 @@ import React from "react";
 import { motion, useInView } from "framer-motion";
 
 const skills = [
+  { name: "Java", level: "80%" },
+  { name: "DSA", level: "65%" },
   { name: "JavaScript", level: "80%" },
   { name: "React", level: "75%" },
   { name: "CSS3", level: "80%" },
