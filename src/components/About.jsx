@@ -2,14 +2,14 @@ import React from "react";
 import { motion, useInView } from "framer-motion";
 
 const skills = [
-  { name: "Java", level: "80%" },
+  { name: "Java", level: "75%" },
   { name: "DSA", level: "65%" },
-  { name: "JavaScript", level: "80%" },
-  { name: "React", level: "75%" },
-  { name: "CSS3", level: "80%" },
+  { name: "JavaScript", level: "75%" },
+  { name: "React", level: "70%" },
+  { name: "CSS3", level: "75%" },
   { name: "Tailwind CSS", level: "75%" },
   { name: "Node.js", level: "75%" },
-  { name: "Git", level: "80%" },
+  { name: "Git", level: "70%" },
   { name: "MySQL", level: "60%" },
   { name: "MongoDB", level: "70%" },
 ];
